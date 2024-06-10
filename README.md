@@ -1,2 +1,4 @@
-# Smart_Retailer-InformationProduct
-A customer segmentation and product recommendation system using RFM Analysis, Market Basket Analysis &amp; Item Based Collaborative Filter
+# Smart Retailer InformationProduct - A customer segmentation and product recommendation system 
+Using RFM Analysis, Market Basket Analysis & Item Based Collaborative Filter
+
+"Smart Retailers," a new quality information product, is an online information product for a local grocery store. The goal of this project is to create a machine-learning model that uses market basket analysis to identify correlations between items in customers' shopping carts. Market basket analysis (MBA) is a data mining technique that can be used to identify correlations between frequently purchased items online and important relationships between products, which can help smart retailers increase online sales and generate revenue. It can also assist in identifying products that customers frequently purchase together in a single transaction or across multiple transactions.
